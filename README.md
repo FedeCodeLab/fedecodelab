@@ -2,7 +2,7 @@
 💻¡Hola! Soy Federico, tengo 25 años, soy desarrollador web Frontend en constante búsqueda de oportunidades para crecer y mejorar mi perfil profesional. Con una sólida formación en desarrollo fullstack en Henry y cursos externos realizados previamente, he adquirido habilidades en HTML5, CSS3, JavaScript (incluyendo frameworks como React.js), SQL, Express y Sequelize. Mi enfoque principal en este momento es consolidar mis habilidades como desarrollador frontend y contribuir de manera efectiva a proyectos web.💻<br><br>🔭Actualmente, estoy enfocado en ampliar mis conocimientos y experiencia como desarrollador frontend, y estoy interesado en oportunidades para realizar prácticas como Desarrollador Jr en proyectos web. Me apasiona aprender y enseñar, y estoy comprometido a crecer profesionalmente junto con una empresa y mis compañeros de trabajo.🔭<br><br>✨Estoy emocionado de explorar nuevas oportunidades y contribuir de manera significativa al éxito de los proyectos en los que me involucre. ¡Espero tener la oportunidad de trabajar juntos!✨
 
 [![](https://visitcount.itsvg.in/api?id=FedeCodeLab&icon=0&color=0)](https://visitcount.itsvg.in)
-## 🌐 Redes Sociales:
+## 🌐 Redes sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/federicopguzman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fedecodelab) 
 
 # 💻 Habilidades:
@@ -11,12 +11,12 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 <br><br>
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Estadísticas:
+# 📊 GitHub estadísticas:
 ![](https://github-readme-stats.vercel.app/api?username=FedeCodeLab&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FedeCodeLab&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCodeLab&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trofeos
+## 🏆 GitHub trofeos
 ![](https://github-profile-trophy.vercel.app/?username=FedeCodeLab&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
