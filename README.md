@@ -22,5 +22,6 @@
 
 ## 🏆 GitHub trofeos
 ![](https://github-profile-trophy.vercel.app/?username=FedeCodeLab&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
