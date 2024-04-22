@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hola 👋, soy Federico Guzmán</h1>
+
 # 💫 Acerca de mí:
 💻¡Hola! Soy Federico, tengo 25 años, soy desarrollador web Frontend en constante búsqueda de oportunidades para crecer y mejorar mi perfil profesional. Con una sólida formación en desarrollo fullstack en Henry y cursos externos realizados previamente, he adquirido habilidades en HTML5, CSS3, JavaScript (incluyendo frameworks como React.js), SQL, Express y Sequelize. Mi enfoque principal en este momento es consolidar mis habilidades como desarrollador frontend y contribuir de manera efectiva a proyectos web.💻<br><br>🔭Actualmente, estoy enfocado en ampliar mis conocimientos y experiencia como desarrollador frontend, y estoy interesado en oportunidades para realizar prácticas como Desarrollador Jr en proyectos web. Me apasiona aprender y enseñar, y estoy comprometido a crecer profesionalmente junto con una empresa y mis compañeros de trabajo.🔭<br><br>✨Estoy emocionado de explorar nuevas oportunidades y contribuir de manera significativa al éxito de los proyectos en los que me involucre. ¡Espero tener la oportunidad de trabajar juntos!✨
 
