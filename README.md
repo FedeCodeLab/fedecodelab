@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, soy Federico Guzmán</h1>
 
-# 💫 Acerca de mí:
-
 Soy desarrollador web frontend con más de un año de experiencia laboral, especializado en la implementación de interfaces modernas, accesibles y eficientes. Actualmente formo parte del equipo de desarrollo en BeBot, donde me encargo de llevar a cabo las ideas del equipo de diseño, transformándolas en experiencias web funcionales y optimizadas.
 <br><br>
 Tengo experiencia trabajando con tecnologías como Next.js, Typescript, i18n, Tailwind, Node.js, y me encuentro en constante aprendizaje para seguir perfeccionando mis habilidades y aportar valor a cada proyecto en el que participo.
