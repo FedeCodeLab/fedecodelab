@@ -13,5 +13,6 @@ Tengo experiencia trabajando con tecnologías como Next.js, Typescript, i18n, Ta
 [![](https://visitcount.itsvg.in/api?id=FedeCodeLab&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Redes sociales:
 📫 Donde contactarme federicoguzman.css@gmail.com<br><br>
-<a class="background: #000000;" href="https://fedecodelab.vercel.app/" target="_blank">🚀 Portfolio</a>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fede.fpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fedecodelab) [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=linkedin&logoColor=white)](https://fedecodelab.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=linkedin&logoColor=white)](https://fedecodelab.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fede.fpg) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fedecodelab)
