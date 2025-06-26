@@ -4,7 +4,7 @@ Soy desarrollador web frontend con más de un año de experiencia laboral, espec
 <br><br>
 Tengo experiencia trabajando con tecnologías como Next.js, Typescript, i18n, Tailwind, Node.js, y me encuentro en constante aprendizaje para seguir perfeccionando mis habilidades y aportar valor a cada proyecto en el que participo.
 <br />
-<a class="background: #000000;" href="https://fedecodelab.vercel.app/" target="_blank">🚀 Portfolio</a>
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,redux,css,html,sass,react,js,nodejs,firebase,vercel,figma" />
@@ -13,4 +13,5 @@ Tengo experiencia trabajando con tecnologías como Next.js, Typescript, i18n, Ta
 [![](https://visitcount.itsvg.in/api?id=FedeCodeLab&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Redes sociales:
 📫 Donde contactarme federicoguzman.css@gmail.com<br><br>
+<a class="background: #000000;" href="https://fedecodelab.vercel.app/" target="_blank">🚀 Portfolio</a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fede.fpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fedecodelab)
