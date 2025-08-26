@@ -7,7 +7,7 @@ Tengo experiencia trabajando con tecnologías como Next.js, Typescript, Next int
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,redux,css,html,sass,react,js,nodejs,firebase,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,redux,css,html,sass,react,js,nodejs,firebase,vercel,figma,git" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=FedeCodeLab&icon=0&color=0)](https://visitcount.itsvg.in)
