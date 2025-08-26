@@ -4,7 +4,7 @@
 <br><br>
 🔹 Tengo experiencia trabajando con tecnologías como Next.js, Typescript, Next intl, Tailwind, Node.js, Redux, Zustand y me encuentro en constante aprendizaje para seguir perfeccionando mis habilidades y aportar valor a cada proyecto en el que participo.
 <br /><br />
-🔹 Actualmente aprendiendo Python y Machine Learning para profundizar en la creación de chatbots.
+🔹 Actualmente me encuentro aprendiendo Python y Machine Learning para profundizar en la creación de chatbots.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,redux,css,html,sass,react,js,nodejs,firebase,vercel,figma,git" />
