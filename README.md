@@ -1,18 +1,139 @@
-<h1 align="center">Hola 👋, soy Federico Guzmán</h1>
+<div align="center">
+  
+# 👋 ¡Hola! Soy Federico Guzmán
 
-🔹 Soy Desarrollador Frontend con más de un año de experiencia laboral, especializado en la creación de interfaces modernas, accesibles y eficientes. Actualmente formo parte del equipo de desarrollo en BeBot, donde me encargo de llevar a cabo las ideas del equipo de diseño, transformándolas en experiencias web funcionales y optimizadas.
-<br><br>
-🔹 Tengo experiencia trabajando con tecnologías como Next.js/React,Typescript/Javascript, Next intl, Tailwind, Node.js, Redux/Zustand y me encuentro en constante aprendizaje para seguir perfeccionando mis habilidades y aportar valor a cada proyecto en el que participo.
-<br /><br />
-🔹 Actualmente me encuentro aprendiendo Python y Machine Learning para profundizar en la creación de chatbots.
+### Frontend Developer | UI/UX Enthusiast | Continuous Learner
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://fedecodelab.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-guzman/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fede.fpg)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federicoguzman.css@gmail.com)
+
+</div>
+
+---
+
+## 🚀 Sobre mí
+
+```typescript
+const federico = {
+  role: "Frontend Developer",
+  age: "26",
+  company: "BeBot",
+  experience: "1+ año",
+  location: "Argentina 🇦🇷",
+  currentlyLearning: ["Python", "Machine Learning", "Chatbot Development"],
+  passions: ["Clean Code", "UI/UX", "Performance Optimization"],
+  funFact: "Transformo café en código ☕→💻"
+};
+```
+
+🔹 **Desarrollador Frontend** con más de un año de experiencia laboral, especializado en la creación de interfaces modernas, accesibles y eficientes.
+
+🔹 Actualmente en **BeBot**, donde transformo ideas de diseño en experiencias web funcionales y optimizadas, trabajando en estrecha colaboración con el equipo de diseño.
+
+🔹 Apasionado por el aprendizaje continuo, actualmente profundizando en **Python y Machine Learning** para desarrollar chatbots inteligentes.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,redux,css,html,sass,react,js,nodejs,firebase,vercel,figma,git" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,sass,tailwind" />
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=FedeCodeLab&icon=0&color=0)](https://visitcount.itsvg.in)
-## 🌐 Redes sociales:
-📫 Donde contactarme federicoguzman.css@gmail.com<br><br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=linkedin&logoColor=white)](https://fedecodelab.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fede.fpg) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-guzman/)
+### Backend & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,vercel,git,figma" />
+</p>
+
+### State Management & Internationalization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Next_Intl-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next Intl" />
+</p>
+
+### Currently Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
+</p>
+
+---
+
+## 💼 Experiencia
+
+**Frontend Developer** @ BeBot  
+`2024 - Presente`
+- 🎨 Implementación de diseños en código siguiendo las mejores prácticas
+- ⚡ Optimización de rendimiento y accesibilidad web
+- 🤝 Colaboración estrecha con equipos de diseño y backend
+- 🛠️ Desarrollo con Next.js, TypeScript, Tailwind CSS y más
+- 🧪 Implemetanción de internacionalización con Next Intl
+- 🌟 Animaciones con Framer Motion
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FedeCodeLab&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FedeCodeLab&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCodeLab&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&locale=es" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 Proyectos Destacados
+
+### 🌟 [Spotify Clone](https://github.com/FedeCodeLab/SpotifyClone)
+Clon de Spotify desarrollado con las últimas tecnologías web
+
+### 🚀 [Portfolio Personal](https://github.com/FedeCodeLab/NewPortfolio)
+Portfolio moderno con animaciones y diseño responsive
+
+---
+
+## 📈 Actividad Reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 💡 Lo que me motiva
+
+> "El código limpio no se escribe siguiendo un conjunto de reglas. No te conviertes en un artesano del software al aprender una lista de heurísticas. El profesionalismo y la artesanía provienen de los valores que impulsan las disciplinas." - Robert C. Martin
+
+- ✨ Crear experiencias web excepcionales
+- 🎯 Escribir código limpio y mantenible
+- 🌱 Aprender algo nuevo cada día
+- 🤝 Colaborar con equipos talentosos
+
+---
+
+## 📫 Contacto
+
+¿Tienes un proyecto interesante o quieres colaborar?
+
+📧 **Email:** federicoguzman.css@gmail.com  
+💼 **LinkedIn:** [Federico Guzmán](https://www.linkedin.com/in/federico-guzman/)  
+🌐 **Portfolio:** [fedecodelab.vercel.app](https://fedecodelab.vercel.app/)  
+📸 **Instagram:** [@fede.fpg](https://instagram.com/fede.fpg)
+
+---
+
+<div align="center">
+
+### ⚡ "Código que funciona es bueno. Código que funciona Y es legible es excelente." ⚡
+
+**¡Gracias por visitar mi perfil!** 🚀
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
