@@ -124,8 +124,6 @@ Portfolio moderno con animaciones y diseño responsive
 
 <div align="center">
 
-### ⚡ "Código que funciona es bueno. Código que funciona Y es legible es excelente." ⚡
-
 **¡Gracias por visitar mi perfil!** 🚀
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
