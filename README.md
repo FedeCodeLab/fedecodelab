@@ -74,6 +74,8 @@ const federico = {
 - 🧪 Implemetanción de internacionalización con Next Intl
 - 🌟 Animaciones con Framer Motion
 
+<br/>
+
 - **Frontend Developer** @ Kiura  
 `May 2024 - Oct 2024`
 - 🎨 Desarrollé interfaces de usuario visualmente atractivas y dinámicas
