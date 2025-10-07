@@ -66,13 +66,21 @@ const federico = {
 ## 💼 Experiencia
 
 **Frontend Developer** @ BeBot  
-`2024 - Presente`
+`Oct 2024 - Presente`
 - 🎨 Implementación de diseños en código siguiendo las mejores prácticas
 - ⚡ Optimización de rendimiento y accesibilidad web
 - 🤝 Colaboración estrecha con equipos de diseño y backend
 - 🛠️ Desarrollo con Next.js, TypeScript, Tailwind CSS y más
 - 🧪 Implemetanción de internacionalización con Next Intl
 - 🌟 Animaciones con Framer Motion
+
+- **Frontend Developer** @ Kiura  
+`May 2024 - Oct 2024`
+- 🎨 Desarrollé interfaces de usuario visualmente atractivas y dinámicas
+- ⚡ Colaboré en la implementación de la aplicación en entornos de producción
+- 🤝 Trabajé en conjunto con desarrolladores back-end para integrar servicios y APIs
+- 🧪 Realicé tareas de mantenimiento, como la resolución de errores y la adición de nuevas características
+- 🛠️ Cooperé estrechamente con diseñadores UX/UI para asegurar una experiencia de usuario consistente y atractiva
 
 ---
 
