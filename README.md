@@ -76,7 +76,7 @@ const federico = {
 
 <br/>
 
-- **Frontend Developer** @ Kiura  
+**Frontend Developer** @ Kiura  
 `May 2024 - Oct 2024`
 - 🎨 Desarrollé interfaces de usuario visualmente atractivas y dinámicas
 - ⚡ Colaboré en la implementación de la aplicación en entornos de producción
