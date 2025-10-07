@@ -93,14 +93,6 @@ const federico = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCodeLab&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&locale=es" alt="Top Languages" />
 </div>
 
-## 🏆 Proyectos Destacados
-
-### 🌟 [Spotify Clone](https://github.com/FedeCodeLab/SpotifyClone)
-Clon de Spotify desarrollado con las últimas tecnologías web
-
-### 🚀 [Portfolio Personal](https://github.com/FedeCodeLab/NewPortfolio)
-Portfolio moderno con animaciones y diseño responsive
-
 ---
 
 ## 💡 Lo que me motiva
