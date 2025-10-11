@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 ¡Hola! Soy Federico Guzmánm
+# 👋 ¡Hola! Soy Federico Guzmán
 
 ### Frontend Developer | UI/UX Enthusiast | Continuous Learner
 
