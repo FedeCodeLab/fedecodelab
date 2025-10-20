@@ -22,7 +22,7 @@ const federico = {
   company: "BeBot",
   experience: "1+ año",
   location: "Argentina 🇦🇷",
-  currentlyLearning: ["Python", "Machine Learning", "Chatbot Development"],
+  currentlyLearning: ["Python", "Machine Learning", "Chatbot Development", "React Native"],
   passions: ["Clean Code", "UI/UX", "Performance Optimization"],
   funFact: "Transformo café en código ☕→💻"
 };
