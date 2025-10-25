@@ -120,6 +120,4 @@ const federico = {
 
 **¡Gracias por visitar mi perfil!** 🚀
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 </div>
