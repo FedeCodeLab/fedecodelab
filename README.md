@@ -20,7 +20,7 @@ const federico = {
   role: "Frontend Developer",
   age: "26",
   experience: "2 años",
-  location: "La Rioja, La Rioja, Argentina",
+  location: "La Rioja, Argentina",
   currentlyLearning: ["Python", "Machine Learning", "Chatbot Development", "React Native"],
   passions: ["Clean Code", "UI/UX", "Performance Optimization"],
   funFact: "Transformo café en código ☕→💻"
