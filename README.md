@@ -22,6 +22,7 @@ const federico = {
   company: "BeBot",
   experience: "1+ año",
   location: "Argentina 🇦🇷",
+  Stack: ["Nextjs", "Typescript", "Tailwind", "Redux", "Zustand", "i18n", "NodeJS", "Firebase", "HTML", "React", "CSS", "Javascript", "PostgreSQL"],
   currentlyLearning: ["Python", "Machine Learning", "Chatbot Development", "React Native"],
   passions: ["Clean Code", "UI/UX", "Performance Optimization"],
   funFact: "Transformo café en código ☕→💻"
