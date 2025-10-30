@@ -66,7 +66,7 @@ const federico = {
 ## 💼 Experiencia
 
 **Frontend Developer** @ BeBot  
-`Oct 2024 - Presente`
+`Oct 2024 - Nov 2025`
 - 🎨 Implementación de diseños en código siguiendo las mejores prácticas
 - ⚡ Optimización de rendimiento y accesibilidad web
 - 🤝 Colaboración estrecha con equipos de diseño y backend
