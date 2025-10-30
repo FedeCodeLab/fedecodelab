@@ -67,6 +67,8 @@ const federico = {
 
 **Frontend Developer** @ BeBot  
 `Oct 2024 - Nov 2025`
+- 🌐 Implementación de internacionalización (i18n) usando Next Intl para soportar múltiples idiomas
+- 🤖 Integración de un chatbot con Voiceflow (incluye soporte voz y texto)
 - 🎨 Implementación de diseños en código siguiendo las mejores prácticas
 - ⚡ Optimización de rendimiento y accesibilidad web
 - 🤝 Colaboración estrecha con equipos de diseño y backend
