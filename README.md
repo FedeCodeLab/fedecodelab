@@ -71,9 +71,8 @@ const federico = {
 - 🤖 Integración de un chatbot con Voiceflow (incluye soporte voz y texto)
 - 🎨 Implementación de diseños en código siguiendo las mejores prácticas
 - ⚡ Optimización de rendimiento y accesibilidad web
-- 🤝 Colaboración estrecha con equipos de diseño y backend
+- 🤝 Colaboración estrecha con equipos de diseño y SEO
 - 🛠️ Desarrollo con Next.js, TypeScript, Tailwind CSS y más
-- 🧪 Implemetanción de internacionalización con Next Intl
 - 🌟 Animaciones con Framer Motion
 
 <br/>
