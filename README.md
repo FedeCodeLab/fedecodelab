@@ -19,7 +19,6 @@
 const federico = {
   role: "Frontend Developer",
   age: "26",
-  company: "Empty",
   experience: "2 años",
   location: "Argentina 🇦🇷",
   currentlyLearning: ["Python", "Machine Learning", "Chatbot Development", "React Native"],
