@@ -96,8 +96,7 @@ const federico = {
 
 ## 💡 Lo que me motiva
 
-> "El código limpio no se escribe siguiendo un conjunto de reglas. No te conviertes en un artesano del software al aprender una lista de heurísticas. El profesionalismo y la artesanía provienen de los valores que impulsan las disciplinas." - Robert C. Martin
-
+> 
 - ✨ Crear experiencias web excepcionales
 - 🎯 Escribir código limpio y mantenible
 - 🌱 Aprender algo nuevo cada día
