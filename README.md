@@ -15,17 +15,18 @@
 
 ## 🚀 Sobre mí
 
-```typescript
+```ts
 const federico = {
-  role: "Frontend Developer",
+  role: "Frontend Developer 🚀",
   age: "26",
   experience: "2 años",
-  location: "La Rioja, Argentina",
-  currentlyLearning: ["Python", "Machine Learning", "Chatbot Development", "React Native"],
-  passions: ["Clean Code", "UI/UX", "Performance Optimization"],
+  location: "La Rioja, Argentina 🇦🇷",
+  currentlyLearning: ["🐍 Python", "🤖 Machine Learning", "💬 Chatbot Dev", "📱 React Native"],
+  passions: ["✨ Clean Code", "🎨 UI/UX", "⚡ Performance"],
   funFact: "Transformo café en código ☕→💻"
 };
 ```
+
 
 🔹 **Desarrollador Frontend** con más de un año de experiencia laboral, especializado en la creación de interfaces modernas, accesibles y eficientes.
 
