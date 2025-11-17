@@ -17,7 +17,7 @@
 
 ```ts
 const federico = {
-  role: "Frontend Developer 🚀",
+  role: "Fullstack Developer 🚀 | Frontend Developer Ssr | React Developer",
   age: "26",
   experience: "2 años",
   location: "La Rioja, Argentina 🇦🇷",
@@ -28,7 +28,7 @@ const federico = {
 ```
 
 
-🔹 **Desarrollador Frontend** con más de un año de experiencia laboral, especializado en la creación de interfaces modernas, accesibles y eficientes.
+🔹 **Desarrollador Fullstack** con más de un año de experiencia laboral, especializado en la creación de interfaces modernas, accesibles y eficientes.
 
 🔹 Actualmente en **BeBot**, donde transformo ideas de diseño en experiencias web funcionales y optimizadas, trabajando en estrecha colaboración con el equipo de diseño.
 
