@@ -17,7 +17,7 @@
 
 ```ts
 const federico = {
-  role: "Fullstack Developer 🚀 | Frontend Developer Ssr | React Developer",
+  role: "🚀 Fullstack Developer | 💻 Frontend Developer Ssr | ⚛️ React Developer",
   age: "26",
   experience: "2 años",
   location: "La Rioja, Argentina 🇦🇷",
