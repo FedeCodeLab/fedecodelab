@@ -66,7 +66,7 @@ const federico = {
 ## 💼 Experiencia
 
 **Frontend Developer** @ BeBot  
-`Oct 2024 - Nov 2025`
+`Oct 2024 - actualidad`
 - 🌐 Implementación de internacionalización (i18n) usando Next Intl para soportar múltiples idiomas
 - 🤖 Integración de un chatbot con Voiceflow (incluye soporte voz y texto)
 - 🎨 Implementación de diseños en código siguiendo las mejores prácticas
